@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rerumscoticarumh00buch_0000.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2803 20 2912 4234">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2803 20 2912 4234">
+     <span class='ocr_line' id='line_1_1' title="bbox 2803 20 2912 4234"><span class='ocrx_word' id='word_1_1' title='bbox 2803 20 2912 4234; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2734 74 2770 2551">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2734 74 2770 2551">
+     <span class='ocr_line' id='line_1_2' title="bbox 2734 74 2770 2551"><span class='ocrx_word' id='word_1_2' title='bbox 2735 74 2767 173; x_wconf 61' lang='lat' dir='ltr'>Ul}</span> <span class='ocrx_word' id='word_1_3' title='bbox 2734 206 2736 211; x_wconf 93' lang='lat'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 2752 766 2754 769; x_wconf 90' lang='lat'>.</span> <span class='ocrx_word' id='word_1_5' title='bbox 2745 813 2753 822; x_wconf 78' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2737 895 2770 1582; x_wconf 54' lang='grc' dir='ltr'>-Ῑ,Ξι-ξέκ</span> <span class='ocrx_word' id='word_1_7' title='bbox 2740 1599 2764 1698; x_wconf 52' lang='grc' dir='ltr'>...μ-,ὴ</span> <span class='ocrx_word' id='word_1_8' title='bbox 2743 1723 2763 1830; x_wconf 54' lang='lat'>335..</span> <span class='ocrx_word' id='word_1_9' title='bbox 2741 1855 2765 2027; x_wconf 51' lang='lat' dir='ltr'>‹sto-1112.</span> <span class='ocrx_word' id='word_1_10' title='bbox 2739 2052 2764 2315; x_wconf 49' lang='lat' dir='ltr'>,Y-Ju«.1.1».</span> <span class='ocrx_word' id='word_1_11' title='bbox 2736 2343 2760 2551; x_wconf 56' lang='grc' dir='ltr'>,ῦῑιὶκῒῖ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
